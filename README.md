@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hey, Aman here 👋<br><br>💻 I’m a Computer Science student pursuing engineering<br>🚀 I love building projects that actually solve real-world problems<br>🧠 I enjoy writing code and experimenting with new ideas<br>🎬 Into tech and cinema — they keep me creative<br>🤝 Always down to learn, create, and collaborate<br><br>📩 Email: work.aman06@gmail.com<br><br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/amankhan06/" target="_blank">Aman's LinkedIn</a>
 
 
